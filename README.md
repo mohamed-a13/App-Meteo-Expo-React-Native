@@ -30,3 +30,4 @@ Accédez au dossier racine de votre projet et exécutez npm install.
 Si vous utilisez Xcode 12.5 ou supérieur, accédez à /ios et exécutez pod install --repo-update`
 Exécutez npm run iosou npm run androidpour démarrer votre application !
 (Avec du fil : yarn ios ou yarn android).
+Puis exécuter npx expo start
