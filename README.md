@@ -31,5 +31,5 @@ Si vous utilisez Xcode 12.5 ou supérieur, accédez à /ios et exécutez pod ins
 Exécutez npm run iosou npm run androidpour démarrer votre application !
 (Avec du fil : yarn ios ou yarn android).
 Il est important de vous procurer une clé de l'API https://openweathermap.org/
-Créer un fichier app.config.ts et faire "export const API_KEY = "votre clé"
+Créer un fichier app.config.ts et faire "export const apiKey = "votre clé"
 Puis exécuter npx expo start
