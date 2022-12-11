@@ -1,6 +1,8 @@
 Ce projet est une application qui fait des requêtes à l'API Openweathermap
 afin de récolter les donneés et les afficher sur smartphones IOS / Android.
 
+https://user-images.githubusercontent.com/72311987/206912351-74801739-5247-4979-8304-e28e5557b6f5.mp4
+
 Technos utilisés:
 Expo (React Native) pour la création de l'application
 
